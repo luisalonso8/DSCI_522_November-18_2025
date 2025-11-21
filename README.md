@@ -3,4 +3,4 @@ Public repository for DSCI_522 Collaborative Environment
 I made some changes for the folder.
 
 
-Git branch-d : will delete the branch
+Solving merge conflicts is easy"
